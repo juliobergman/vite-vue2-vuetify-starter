@@ -13,7 +13,7 @@
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">Welcome to Vuetify</h1>
         <h2 class="text-h4 font-weight-bold mb-3 primary--text">
-          Vite + Vue2 + Vuetify
+          Vite + Vue2 + Vue-Router + Vuetify
         </h2>
 
         <p class="subheading font-weight-regular">
